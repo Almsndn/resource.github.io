@@ -1,1 +1,1 @@
-Nothing Special, it's just a test text.
+Nothing Special, it's just a resource container.
