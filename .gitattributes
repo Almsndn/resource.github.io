@@ -1,2 +1,0 @@
-*.7z filter=lfs diff=lfs merge=lfs -text
-中国文化概况.zip filter=lfs diff=lfs merge=lfs -text
